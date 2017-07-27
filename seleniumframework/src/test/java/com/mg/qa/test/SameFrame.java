@@ -42,7 +42,7 @@ public class SameFrame {
 	public void dragAndDropTestCaseWithinFrame(){
 		
 		 //throw new SkipException("I am skipping dragAndDropTestCaseWithinFrame")
-		
+		// Tony
 		WebElement messagPrint=driver.findElement(By.id("messages"));
 		System.out.println(messagPrint.getText());
 		
